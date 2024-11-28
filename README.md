@@ -75,6 +75,22 @@ nessa tela vai pedir uma senha para abrir o bau,a senha que o usuario
 vai ter visto em sala de aula,quando acertar a senha , o usuario obtem 
 uma parte do mosaico do recifê
 
+Materiais Usados:
+Bussola:
+-Esp32
+-Jumpers
+-1 LED RGB
+TECLADO:
+-Teclado numerico(0 a 9)
+-1 Servo Motor
+-1 Display LCD
+-1 RFID
+
+COMO FAZER UM UPLOAD:
+independente se estiver com o codigo armazenado no arduino ou no Vscode na linguagem de C++
+o meio é o mesmo,basta apenas criar uma pasta e armazenar o codigo e registrar ele numa
+plataforma a sua escolha
+exemplo:GitHub
 
 
 
