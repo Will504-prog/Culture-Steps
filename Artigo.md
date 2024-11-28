@@ -44,3 +44,10 @@ Para o Teclado:
 1 Servo motor
 1 Display 
 
+Como Fazer Upload e Salvar o codigo:
+Crie uma pasta repositoria do arduino ou vscode caso esteja
+usando C++,apos isso você pode manter para si ou deixar salvo 
+em algum lugar , como o GitHub.
+Aqui esta um acesso para o GitHub:https://github.com/
+
+
