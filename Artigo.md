@@ -5,19 +5,21 @@ Bussola:
 -Uma Esp32
 -1 LED RGB 
 -Uma Bateria de 9V-12V
+
 A partir da conexão entre a Esp,a bateria e o WI-FI,a Esp32 mede
 a intensidade dela e determinada quantidade de tempo e essa leitura 
 vai ser usada para medir a distância entre o dispositivo e o bau.
-Cor LED;
+
+Cor LED:
 Sinal Forte:Vemelho
 Sinal Mediano:Verde
 Sinal Fraco:Azul
--------------------
+
 Bau:
--Tela
-*RFID
--Teclado
--------------------
+Tela
+RFID
+Teclado
+
 A tela vai exibir uma pergunta de acordo com a leitura do RFID
 Mas o que seria o RFID?
 O RFID é uma placa de leitura de radio que quando é
