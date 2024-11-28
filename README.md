@@ -1,5 +1,4 @@
 README-
-
 Tutorial Upload:
 
 O código começa com a inclusão de diversas bibliotecas necessárias para controlar o teclado, 
@@ -23,11 +22,19 @@ Alternativamente, você pode clicar diretamente no ícone de bibliotecas (um íc
 *KeyPad(Teclado):
 -No campo de pesquina do Arduino,procure por "Keypad",apos isso clique em "Instalar" ao lado da biblioteca "Keypad" (de Mark Stanley e Alexander Brevig).
 
+*LiquidCrystal_I2C:
+
+Pesquise por "LiquidCrystal_I2C".
+Você verá várias versões dessa biblioteca. Uma muito usada é "LiquidCrystal I2C" de Frank de Brabander. Clique em "Instalar".
+
 *Wire*:
 
 A biblioteca Wire já é pré-instalada com a IDE do Arduino, pois ela é usada para comunicação I2C, que é necessária para o LCD. Então você não precisará instalá-la separadamente.
 
-Após a instalação, você pode verificar se as bibliotecas foram instaladas corretamente indo em "Sketch" -> "Incluir Biblioteca" e procurando pelas bibliotecas na lista. Elas devem aparecer lá, e você pode incluí-las em seu código automaticamente.
+*Servo:
+
+Pesquise por "Servo".
+Clique em "Instalar" na biblioteca "Servo" de Michael Margolis.
 
 *WIFI.h
 
@@ -53,6 +60,8 @@ Para ESP32:
  Encontre "esp32 by Espressif Systems" e clique em "Instalar".
  Após a instalação, selecione a placa ESP32 que você está usando em "Ferramentas" > "Placa".
  extra
+
+Após a instalação, você pode verificar se as bibliotecas foram instaladas corretamente indo em "Sketch" -> "Incluir Biblioteca" e procurando pelas bibliotecas na lista. Elas devem aparecer lá, e você pode incluí-las em seu código automaticamente.
 
 Brincadeira:
 
